@@ -1,4 +1,4 @@
-# vue-plug-in
+# vue-fkl-sideslip
 ```javascript
  cnpm install vue-fkl-sideslip // 或者npm
 ```
